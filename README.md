@@ -1,6 +1,6 @@
 # MSApp
 
-Android App for displaying movies from the web
+Android App for displaying movies from web
 
 
 ## Demo
